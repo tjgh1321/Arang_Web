@@ -18,5 +18,12 @@ a {
 
 .logo {
     width: 50vw;
+    float: left;
     background-color: khaki;
+}
+
+.menus{
+    width: 50vw;
+    float: right;
+    background-color: brown;
 }
